@@ -32,13 +32,28 @@ An added advantage of being a completely Kubernetes native solution is that admi
 
 #### *Read this in [other languages](translations/TRANSLATIONS.md).*
 
+##### Sample 1
+
+| Language | Link |
+|---|---|
+| German | [🇩🇪](translations/README.de.md) |
+| Russian | [🇷🇺](translations/README.ru.md) |
+| Turkish | [🇹🇷](translations/README.tr.md) |
+| Ukranian | [🇺🇦](translations/README.ua.md) |
+| Chinese (traditonal) | [🇨🇳](translations/README.zh.md) |
+| French | [🇫🇷](translations/README.fr.md) |
+| Gujarati | [:india:](translations/README.gu.md) |
+
+
+##### Sample 2
 [🇩🇪](translations/README.de.md)
 [🇷🇺](translations/README.ru.md)
 [🇹🇷](translations/README.tr.md)
 [🇺🇦](translations/README.ua.md)
 [🇨🇳](translations/README.zh.md)
 [🇫🇷](translations/README.fr.md)
-[:india:](translations/README.gu.md)
+[GU:india:](translations/README.gu.md)
+[:belgium:](link.md)
 
 ## Scalability
 
